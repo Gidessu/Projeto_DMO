@@ -24,14 +24,7 @@
             android:textColor="?attr/colorOnSurface"
             android:textSize="16sp"
             android:textStyle="bold" />
-        <TextView
-            android:id="@+id/tvEndereco"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Nome do Contato"
-            android:textColor="?attr/colorOnSurface"
-            android:textSize="16sp"
-            android:textStyle="bold" />
+
         <TextView
             android:id="@+id/tvTelefone"
             android:layout_width="wrap_content"
@@ -39,10 +32,10 @@
             android:textColor="?attr/colorOnSurface"
             android:text="(99) 99999-9999" />
         <TextView
-            android:id="@+id/tvEmail"
+            android:id="@+id/tvDescricao"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="email@email.com"
+            android:text="Breve descrição do Serviço/Comercio"
             android:textColor="?attr/colorOnPrimaryContainer"
             android:textStyle="bold"
             android:background="?attr/colorPrimaryContainer"/>

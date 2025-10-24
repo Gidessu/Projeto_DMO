@@ -33,7 +33,8 @@ class DetalheContatoActivity : AppCompatActivity() {
     private fun setupViews() {
         binding.tvNome.text = comercio.nome
         binding.tvTelefone.text = comercio.telefone
-        binding.tvEmail.text = comercio.descricao
+        binding.tvEndereco.text = comercio.endereco
+        binding.tvDescricao.text = comercio.descricao
         binding.imgFoto.setImageResource(comercio.foto)
     }
 

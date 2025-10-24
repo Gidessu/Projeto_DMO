@@ -29,9 +29,8 @@ class ComercioAdapter(
         val comercio = lista[position]
         binding.imgFoto.setImageResource(comercio.foto)
         binding.tvNome.text = comercio.nome
-        binding.tvEndereco.text = comercio.endereco
         binding.tvTelefone.text = comercio.telefone
-        binding.tvEmail.text = comercio.descricao
+        binding.tvDescricao.text = comercio.descricao
         return itemView
     }
 }

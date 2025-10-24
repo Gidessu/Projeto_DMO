@@ -3,7 +3,6 @@
     <string name="app_name">Parque Gramado Establishment Guide</string>
     <string name="welcome_title">Parque Gramado Services</string>
     <string name="service_details">Service Details</string>
-    <string name="category">Category</string>
     <string name="address">Address</string>
     <string name="phone">Phone</string>
     <string name="website">Website</string>
@@ -16,7 +15,6 @@
     <string name="service_image">Service Image</string>
     <string name="quick_actions">Quick Actions</string>
 
-    <!-- Descrições reais -->
     <string name="alves_automoveis_description">Buying, selling, and trading vehicles. No hassle, here your car is truly valued!</string>
     <string name="imperio_description">Trade of cold cuts, canned goods, processed meats, and dairy products in general. We serve Araraquara and Region!</string>
     <string name="agro_description">National and imported feed, accessories, and medication</string>
@@ -24,7 +22,6 @@
     <string name="box_description">CROSS TRAINING, NUTRITION, MINDSET.</string>
     <string name="sam_mart_description">Fresh products, incredible variety, and exceptional service! Come and discover the difference!</string>
 
-    <!-- Nomes reais dos estabelecimentos -->
     <string name="alves_automoveis">Alves Automoveis</string>
     <string name="imperio">Distribuidora Império dos Frios e Laticínios</string>
     <string name="agro">Agro Roby</string>
@@ -32,8 +29,6 @@
     <string name="box">Box América</string>
     <string name="sam_mart">SamMart</string>
 
-
-    <!-- Endereços reais FEITO-->
     <string name="alves_automoveis_address">Rua José do Patrocínio, 660 - Vila Xavier, Araraquara - SP</string>
     <string name="imperio_address">Alameda Paulista, 610 - Jardim Silvania (Vila Xavier), Araraquara - SP</string>
     <string name="agro_address">Av. Vinte e Dois de Agosto, 1177 - Vila Xavier (Vila Xavier), Araraquara - SP</string>
@@ -41,7 +36,6 @@
     <string name="box_address">Av. Octaviano de Arruda Campos, 686 - Jardim Floridiana (Vila Xavier), Araraquara - SP</string>
     <string name="sam_mart_address">Alameda Paulista, 1067 - Vila Tito de Carvalho (Vila Xavier), Araraquara - SP</string>
 
-    <!-- Telefones reais FEITO-->
     <string name="alves_automoveis_phone">(16) 997413996</string>
     <string name="imperio_phone">(16) 991627170</string>
     <string name="agro_phone">(16) 33374726</string>
