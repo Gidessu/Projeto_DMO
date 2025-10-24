@@ -14,12 +14,14 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="?attr/colorSurface">
         <TextView
             android:id="@+id/tvNome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Nome do Contato"
+            android:textColor="?attr/colorOnSurface"
             android:textSize="16sp"
             android:textStyle="bold" />
         <TextView
@@ -27,18 +29,22 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Nome do Contato"
+            android:textColor="?attr/colorOnSurface"
             android:textSize="16sp"
             android:textStyle="bold" />
         <TextView
             android:id="@+id/tvTelefone"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="?attr/colorOnSurface"
             android:text="(99) 99999-9999" />
         <TextView
             android:id="@+id/tvEmail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="email@email.com"
-            android:textColor="#555" />
+            android:textColor="?attr/colorOnPrimaryContainer"
+            android:textStyle="bold"
+            android:background="?attr/colorPrimaryContainer"/>
     </LinearLayout>
 </LinearLayout>

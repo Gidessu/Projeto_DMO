@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Guia Pocket - Bairro Vila Xavier</string>
-    <string name="welcome_title">Serviços do Bairro Vila Xavier</string>
+    <string name="app_name">Guia de Estabelecimentos Parque Gramado</string>
+    <string name="welcome_title">Serviços do Parque Gramado</string>
     <string name="service_details">Detalhes do Serviço</string>
     <string name="category">Categoria</string>
     <string name="address">Endereço</string>
@@ -16,14 +16,14 @@
     <string name="service_image">Imagem do Serviço</string>
     <string name="quick_actions">Ações Rápidas</string>
 
-<!--    &lt;!&ndash; Categorias &ndash;&gt;-->
-<!--    <string name="category_food">Alimentação</string>-->
-<!--    <string name="category_beauty">Beleza</string>-->
-<!--    <string name="category_repair">Consertos</string>-->
-<!--    <string name="category_services">Serviços</string>-->
-<!--    <string name="category_retail">Comércio</string>-->
-<!--    <string name="category_health">Saúde</string>-->
-<!--    <string name="category_education">Educação</string>-->
+    <!-- Descrições reais -->
+    <string name="alves_automoveis_description">Compra venda e troca de veículos. Sem enrolação, aqui seu carro vale de verdade !</string>
+    <string name="imperio_description">Comércio de frios, enlatados, embutidos, laticínios em geral. Atendemos em Araraquara e Região!</string>
+    <string name="agro_description">Rações nacionais, importadas, Acessorios e Medicamentos</string>
+    <string name="amarelinha_description">A Amarelinha existe para gerar oportunidade de emprego e desenvolver pessoas que consequentemente terão melhores condições para sua vida/família.</string>
+    <string name="box_description">CROSS TRAINING, NUTRITION, MINDSET.</string>
+    <string name="sam_mart_description">Produtos frescos, variedade incrível e atendimento excepcional! Venha descobrir a diferença!</string>
+
 
     <!-- Nomes reais dos estabelecimentos -->
     <string name="alves_automoveis">Alves Automoveis</string>
@@ -33,27 +33,21 @@
     <string name="box">Box América</string>
     <string name="sam_mart">SamMart</string>
 
-    <!-- Descrições reais -->
-    <string name="alves_automoveis_description">Unidade de Pronto Atendimento 24 horas oferecendo serviços médicos e atendimento de emergência para a comunidade.</string>
-    <string name="imperio_description">Supermercado de grande porte com ampla variedade de produtos, alimentos frescos e itens domésticos a preços competitivos.</string>
-    <string name="agro_description">Bar aconchegante com drinks e petiscos de inspiração japonesa, perfeito para encontros sociais e reuniões casuais.</string>
-    <string name="amarelinha_description">Um espaço amplo, completo e supermoderno que conta com uma variedade enorme de produtos e artigos para festa com os preços mais convidativos do mercado.</string>
-    <string name="box_description">Serviço Social da Indústria oferecendo programas educacionais, atividades esportivas e eventos culturais para a comunidade.</string>
-    <string name="sam_mart_description">Pastelaria tradicional brasileira servindo deliciosos pastéis fritos com diversos recheios e sabores.</string>
 
     <!-- Endereços reais FEITO-->
-    <string name="alves_automoveis_address">R. São José do Rio Preto, 875 - Parque Gramado II, Araraquara - SP, 14811-132</string>
-    <string name="imperio_address">R. São José do Rio Preto, 786 - Parque Gramado II, Araraquara - SP, 14811-256</string>
-    <string name="agro_address">R. São José do Rio Preto, 159 - Jardim Santa Clara, Araraquara - SP, 14811-256</string>
-    <string name="amarelinha_address">Av. Francisco Vaz Filho, 2874 - Jardim América, Araraquara - SP, 14811-218</string>
-    <string name="box_address">Av. Uchoa, 198 - Jardim América, Araraquara - SP, 14811-238</string>
-    <string name="sam_mart_address">R. São José do Rio Preto, 571 - Parque Gramado II, Araraquara - SP, 14811-256</string>
+    <string name="alves_automoveis_address">Rua José do Patrocínio, 660 - Vila Xavier, Araraquara - SP</string>
+    <string name="imperio_address">Alameda Paulista, 610 - Jardim Silvania (Vila Xavier), Araraquara - SP</string>
+    <string name="agro_address">Av. Vinte e Dois de Agosto, 1177 - Vila Xavier (Vila Xavier), Araraquara - SP</string>
+    <string name="amarelinha_address">R. Padre Luciano, 58 - Vila Xavier, Araraquara - SP</string>
+    <string name="box_address">Av. Octaviano de Arruda Campos, 686 - Jardim Floridiana (Vila Xavier), Araraquara - SP</string>
+    <string name="sam_mart_address">Alameda Paulista, 1067 - Vila Tito de Carvalho (Vila Xavier), Araraquara - SP</string>
 
     <!-- Telefones reais FEITO-->
     <string name="alves_automoveis_phone">(16) 997413996</string>
     <string name="imperio_phone">(16) 991627170</string>
     <string name="agro_phone">(16) 33374726</string>
     <string name="amarelinha_phone">(16) 33371951</string>
-    <string name="box_phone">(16) 97777-6666</string>
-    <string name="sam_mart_phone">(16) 96666-5555</string>
+    <string name="box_phone">(16) 977776666</string>
+    <string name="sam_mart_phone">(16) 966665555</string>
+
 </resources>

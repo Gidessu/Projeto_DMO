@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Guia Pocket - Bairro Vila Xavier</string>
-    <string name="welcome_title">Serviços do Bairro Vila Xavier</string>
-    <string name="service_details">Detalhes do Serviço</string>
-    <string name="category">Categoria</string>
-    <string name="address">Endereço</string>
-    <string name="phone">Telefone</string>
-    <string name="website">Site</string>
-    <string name="call">Ligar</string>
-    <string name="open_website">Abrir Site</string>
-    <string name="open_maps">Ver no Mapa</string>
-    <string name="share">Compartilhar</string>
-    <string name="description">Descrição</string>
-    <string name="back">Voltar</string>
-    <string name="service_image">Imagem do Serviço</string>
-    <string name="quick_actions">Ações Rápidas</string>
+    <string name="app_name">Parque Gramado Establishment Guide</string>
+    <string name="welcome_title">Parque Gramado Services</string>
+    <string name="service_details">Service Details</string>
+    <string name="category">Category</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="call">Call</string>
+    <string name="open_website">Open Website</string>
+    <string name="open_maps">View on Map</string>
+    <string name="share">Share</string>
+    <string name="description">Description</string>
+    <string name="back">Back</string>
+    <string name="service_image">Service Image</string>
+    <string name="quick_actions">Quick Actions</string>
 
     <!-- Descrições reais -->
-    <string name="alves_automoveis_description">Compra venda e troca de veículos. Sem enrolação, aqui seu carro vale de verdade !</string>
-    <string name="imperio_description">Comércio de frios, enlatados, embutidos, laticínios em geral. Atendemos em Araraquara e Região!</string>
-    <string name="agro_description">Rações nacionais, importadas, Acessorios e Medicamentos</string>
-    <string name="amarelinha_description">A Amarelinha existe para gerar oportunidade de emprego e desenvolver pessoas que consequentemente terão melhores condições para sua vida/família.</string>
+    <string name="alves_automoveis_description">Buying, selling, and trading vehicles. No hassle, here your car is truly valued!</string>
+    <string name="imperio_description">Trade of cold cuts, canned goods, processed meats, and dairy products in general. We serve Araraquara and Region!</string>
+    <string name="agro_description">National and imported feed, accessories, and medication</string>
+    <string name="amarelinha_description">Amarelinha exists to generate employment opportunities and develop people who consequently will have better conditions for their lives/families.</string>
     <string name="box_description">CROSS TRAINING, NUTRITION, MINDSET.</string>
-    <string name="sam_mart_description">Produtos frescos, variedade incrível e atendimento excepcional! Venha descobrir a diferença!</string>
-
+    <string name="sam_mart_description">Fresh products, incredible variety, and exceptional service! Come and discover the difference!</string>
 
     <!-- Nomes reais dos estabelecimentos -->
     <string name="alves_automoveis">Alves Automoveis</string>
