@@ -3,13 +3,11 @@
     <string name="app_name">Parque Gramado Establishment Guide</string>
     <string name="welcome_title">Parque Gramado Services</string>
     <string name="service_details">Service Details</string>
+    <string name="category">Categoria</string>
     <string name="address">Address</string>
+    <string name="email">E-Mail</string>
     <string name="phone">Phone</string>
-    <string name="website">Website</string>
     <string name="call">Call</string>
-    <string name="open_website">Open Website</string>
-    <string name="open_maps">View on Map</string>
-    <string name="share">Share</string>
     <string name="description">Description</string>
     <string name="back">Back</string>
     <string name="service_image">Service Image</string>

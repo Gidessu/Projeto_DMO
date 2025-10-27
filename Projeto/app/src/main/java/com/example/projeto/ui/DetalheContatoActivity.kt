@@ -44,11 +44,6 @@ class DetalheContatoActivity : AppCompatActivity() {
             intent.data = "tel:${comercio.telefone}".toUri()
             startActivity(intent)
         }
-        binding.btnEmail.setOnClickListener {
-            val intent = Intent(Intent.ACTION_SENDTO)
-            intent.data = "mailto:${comercio.descricao}".toUri()
-            startActivity(intent)
-        }
         binding.btnVoltar.setOnClickListener {
             finish()
         }
