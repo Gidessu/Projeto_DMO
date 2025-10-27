@@ -6,11 +6,7 @@
     <string name="category">Categoria</string>
     <string name="address">Endereço</string>
     <string name="phone">Telefone</string>
-    <string name="website">Site</string>
     <string name="call">Ligar</string>
-    <string name="open_website">Abrir Site</string>
-    <string name="open_maps">Ver no Mapa</string>
-    <string name="share">Compartilhar</string>
     <string name="description">Descrição</string>
     <string name="back">Voltar</string>
     <string name="service_image">Imagem do Serviço</string>
@@ -24,8 +20,6 @@
     <string name="box_description">CROSS TRAINING, NUTRITION, MINDSET.</string>
     <string name="sam_mart_description">Produtos frescos, variedade incrível e atendimento excepcional! Venha descobrir a diferença!</string>
 
-
-    <!-- Nomes reais dos estabelecimentos -->
     <string name="alves_automoveis">Alves Automoveis</string>
     <string name="imperio">Distribuidora Império dos Frios e Laticínios</string>
     <string name="agro">Agro Roby</string>
@@ -33,8 +27,6 @@
     <string name="box">Box América</string>
     <string name="sam_mart">SamMart</string>
 
-
-    <!-- Endereços reais FEITO-->
     <string name="alves_automoveis_address">Rua José do Patrocínio, 660 - Vila Xavier, Araraquara - SP</string>
     <string name="imperio_address">Alameda Paulista, 610 - Jardim Silvania (Vila Xavier), Araraquara - SP</string>
     <string name="agro_address">Av. Vinte e Dois de Agosto, 1177 - Vila Xavier (Vila Xavier), Araraquara - SP</string>
@@ -42,7 +34,6 @@
     <string name="box_address">Av. Octaviano de Arruda Campos, 686 - Jardim Floridiana (Vila Xavier), Araraquara - SP</string>
     <string name="sam_mart_address">Alameda Paulista, 1067 - Vila Tito de Carvalho (Vila Xavier), Araraquara - SP</string>
 
-    <!-- Telefones reais FEITO-->
     <string name="alves_automoveis_phone">(16) 997413996</string>
     <string name="imperio_phone">(16) 991627170</string>
     <string name="agro_phone">(16) 33374726</string>
